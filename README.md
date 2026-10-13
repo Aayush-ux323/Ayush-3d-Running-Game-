@@ -1,4 +1,4 @@
-# Desi Run 3D — Enhanced Edition
+# Desi Runner — Enhanced Edition
 
 A mobile-friendly endless runner prototype. The enhanced background includes a cinematic sunset sky, distant town buildings, roadside trees, a decorative train and railway, roadside cars, and shiny gold rupee coins.
 
